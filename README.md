@@ -1,4 +1,4 @@
-https://github.com/wassabi-glitch/weatherapi
+https://github.com/wassabi-glitch/weatherapi.git
 
 Client (frontend, mobile app, or another service)
    ↓
